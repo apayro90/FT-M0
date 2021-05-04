@@ -1,12 +1,18 @@
 body {
-  background-color: black;
+  background-color: blueviolet;
 }
 
 p {
-  color: blue;
+  color: palevioletred;
   font-size: 30px;
 }
 
 .amarillo {
   color: yellow;
+}
+thirdDiv {
+  color: purple;
+  height: 500px;
+  width: 600px;
+
 }
